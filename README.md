@@ -20,8 +20,9 @@ weblab-hp
 同大学大学院 工学系研究科 技術経営戦略学専攻 修士課程  
 * 研究内容  
 受験サプリ  
-*Twitter  
-https://twitter.com/sone_oak
+* Twitter  
+https://twitter.com/sone_oak  
+
 ***
 
 写真は、ドラッグアンドドロップでアップロードできます。
