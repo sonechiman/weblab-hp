@@ -18,6 +18,7 @@ def main():
 	p_list,dirpath=get_pic_list()
 	for p in p_list:
 	    conv_to_grayscale(dirpath+"/images/prof/new/"+p,dirpath+"/images/prof/"+p)
+	    os.remove(dirpath+"/images/prof/new/"+p)
 
 if __name__ == "__main__":
     main()
